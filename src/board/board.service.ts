@@ -1,3 +1,5 @@
+// src/board/board.service.ts
+
 import { Injectable } from '@nestjs/common';
 import { CreateBoardDto } from './create-board.dto';
 

@@ -1,3 +1,5 @@
+// src/board/board.controller.ts
+
 // prettier-ignore
 import {Body, Controller, Delete, Get, Param, Post, Put} from '@nestjs/common';
 import { BoardService } from './board.service';
